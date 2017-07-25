@@ -1,0 +1,356 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Time",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Freq",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "trump",
+          "idx": 1471478940000,
+          "val": 50
+        },
+        {
+          "col": "maga",
+          "idx": 1471478940000,
+          "val": 14
+        },
+        {
+          "col": "jobs",
+          "idx": 1471478940000,
+          "val": 6
+        },
+        {
+          "col": "trump",
+          "idx": 1471479000000,
+          "val": 92
+        },
+        {
+          "col": "maga",
+          "idx": 1471479000000,
+          "val": 16
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479000000,
+          "val": 11
+        },
+        {
+          "col": "trump",
+          "idx": 1471479060000,
+          "val": 76
+        },
+        {
+          "col": "maga",
+          "idx": 1471479060000,
+          "val": 22
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479060000,
+          "val": 19
+        },
+        {
+          "col": "trump",
+          "idx": 1471479120000,
+          "val": 77
+        },
+        {
+          "col": "maga",
+          "idx": 1471479120000,
+          "val": 22
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479120000,
+          "val": 18
+        },
+        {
+          "col": "trump",
+          "idx": 1471479180000,
+          "val": 86
+        },
+        {
+          "col": "maga",
+          "idx": 1471479180000,
+          "val": 22
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479180000,
+          "val": 16
+        },
+        {
+          "col": "trump",
+          "idx": 1471479240000,
+          "val": 81
+        },
+        {
+          "col": "maga",
+          "idx": 1471479240000,
+          "val": 20
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479240000,
+          "val": 20
+        },
+        {
+          "col": "trump",
+          "idx": 1471479300000,
+          "val": 84
+        },
+        {
+          "col": "maga",
+          "idx": 1471479300000,
+          "val": 18
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479300000,
+          "val": 21
+        },
+        {
+          "col": "trump",
+          "idx": 1471479360000,
+          "val": 91
+        },
+        {
+          "col": "maga",
+          "idx": 1471479360000,
+          "val": 13
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479360000,
+          "val": 13
+        },
+        {
+          "col": "trump",
+          "idx": 1471479420000,
+          "val": 97
+        },
+        {
+          "col": "maga",
+          "idx": 1471479420000,
+          "val": 26
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479420000,
+          "val": 20
+        },
+        {
+          "col": "trump",
+          "idx": 1471479480000,
+          "val": 94
+        },
+        {
+          "col": "maga",
+          "idx": 1471479480000,
+          "val": 21
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479480000,
+          "val": 17
+        },
+        {
+          "col": "trump",
+          "idx": 1471479540000,
+          "val": 79
+        },
+        {
+          "col": "maga",
+          "idx": 1471479540000,
+          "val": 26
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479540000,
+          "val": 25
+        },
+        {
+          "col": "trump",
+          "idx": 1471479600000,
+          "val": 70
+        },
+        {
+          "col": "maga",
+          "idx": 1471479600000,
+          "val": 22
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479600000,
+          "val": 12
+        },
+        {
+          "col": "trump",
+          "idx": 1471479660000,
+          "val": 69
+        },
+        {
+          "col": "maga",
+          "idx": 1471479660000,
+          "val": 22
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479660000,
+          "val": 18
+        },
+        {
+          "col": "trump",
+          "idx": 1471479720000,
+          "val": 65
+        },
+        {
+          "col": "maga",
+          "idx": 1471479720000,
+          "val": 32
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479720000,
+          "val": 22
+        },
+        {
+          "col": "trump",
+          "idx": 1471479780000,
+          "val": 90
+        },
+        {
+          "col": "maga",
+          "idx": 1471479780000,
+          "val": 21
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479780000,
+          "val": 20
+        },
+        {
+          "col": "trump",
+          "idx": 1471479840000,
+          "val": 76
+        },
+        {
+          "col": "maga",
+          "idx": 1471479840000,
+          "val": 20
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479840000,
+          "val": 17
+        },
+        {
+          "col": "trump",
+          "idx": 1471479900000,
+          "val": 7
+        },
+        {
+          "col": "maga",
+          "idx": 1471479900000,
+          "val": 4
+        },
+        {
+          "col": "jobs",
+          "idx": 1471479900000,
+          "val": 7
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [
+    {
+      "fill": "color",
+      "offset": 0,
+      "properties": {},
+      "title": "Matches"
+    }
+  ],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "stroke": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "strokeWidth": {
+                "value": 2
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "data.val",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "line"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "time"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.val"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}

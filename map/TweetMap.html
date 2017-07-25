@@ -1,0 +1,242 @@
+<html>
+    <head>
+        <title>Sentiment Map of Tweets for Hillary Clinton and Donald Trump in California, Texas and surrounding areas.</title>
+        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+        <!--
+        <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.js'></script>
+        <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.css' rel='stylesheet' />
+        -->
+        <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+        <style>
+        #map {
+            height: 500px;
+        }
+        </style>
+    </head>
+    <body>
+	<h2>Twitter Sentiment Map for Hillary Clinton and Donald Trump in California, Texas and surrounding areas.</h2>
+        <div id="map"></div>
+<script>
+// var public_token = 'pk.eyJ1IjoiYm9uemFuaW5pIiwiYSI6IjZmODA2ODYzM2UyYTA4YWI0NmMwMjAxYmVjZjdkZGMwIn0.8b8xOSqfwHp4Szg_IwND1Q'
+// var mytiles = L.tileLayer('https://{s}.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+//     maxZoom: 18,
+//     id: ‘msannat’,
+//     accessToken: public_token
+// });
+
+var map = L.map('map', {
+                'center': [40.220169, -79.494263],
+                'zoom': 4,
+                'layers': [
+                           L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                                       'attribution': 'Map data &copy; OpenStreetMap contributors'
+                                       })
+                           ]
+                });
+                
+                var controlLayers = L.control.layers().addTo(map);
+                
+                var url = 'https://rawgit.com/johan/world.geo.json/master/countries.geo.json';
+                var positive_url_H_C = './geo_data_hillary_california_positive_new.json'
+                var negative_url_H_C = './geo_data_hillary_california_negative_new.json'
+                var positive_url_H_T = './geo_data_hillary_texas_positive_new.json'
+                var negative_url_H_T = './geo_data_hillary_texas_negative_new.json'
+                var positive_url_T_C = './geo_data_trump_california_positive_new.json'
+                var negative_url_T_C = './geo_data_trump_california_negative_new.json'
+                var positive_url_T_T = './geo_data_trump_texas_positive_new.json'
+                var negative_url_T_T = './geo_data_trump_texas_negative_new.json'
+                
+               
+                
+                
+                
+                $.getJSON(positive_url_H_C, function (geojson) {
+                          
+                          var myStyle = {
+                          radius: 3,
+                          fillColor: "blue",
+                          color: "blue",
+                          weight: 1,
+                          opacity: 1,
+                          fillOpacity: 1
+                          };
+                          
+                          
+                          
+                          var geojsonLayer = L.geoJson(geojson, {
+                                                       pointToLayer: function (feature, latlng) {
+                                                       return L.circleMarker(latlng, myStyle);
+                                                       }
+                                                       }).addTo(map);
+                          controlLayers.addOverlay(geojsonLayer, 'Positive Tweets: Hillary in California');
+                          });
+                          
+                $.getJSON(negative_url_H_C, function (geojson) {
+                                    
+                            var myStyle = {
+                            radius: 3,
+                            fillColor: "yellow",
+                            color: "yellow",
+                            weight: 1,
+                            opacity: 1,
+                            fillOpacity: 1
+                            };
+                                    
+                                    
+                                    
+                            var geojsonLayer = L.geoJson(geojson, {
+                                                         pointToLayer: function (feature, latlng) {
+                                                         return L.circleMarker(latlng, myStyle);
+                                                         }
+                                                         }).addTo(map);
+                            controlLayers.addOverlay(geojsonLayer, 'Negative Tweets : Hillary in California');
+                            });
+                                    
+                                
+                                
+                                
+
+                                                    
+                                            
+
+        $.getJSON(positive_url_H_T, function (geojson) {
+          
+          var myStyle = {
+          radius: 3,
+          fillColor: "blue",
+          color: "blue",
+          weight: 1,
+          opacity: 1,
+          fillOpacity: 1
+          };
+          
+          
+          
+          var geojsonLayer = L.geoJson(geojson, {
+                                       pointToLayer: function (feature, latlng) {
+                                       return L.circleMarker(latlng, myStyle);
+                                       }
+                                       }).addTo(map);
+          controlLayers.addOverlay(geojsonLayer, 'Positive Tweets: Hillary in Texas');
+          });
+          
+          $.getJSON(negative_url_H_T, function (geojson) {
+                    
+                    var myStyle = {
+                    radius: 3,
+                    fillColor: "yellow",
+                    color: "yellow",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 1
+                    };
+                    
+                    
+                    
+                    var geojsonLayer = L.geoJson(geojson, {
+                                                 pointToLayer: function (feature, latlng) {
+                                                 return L.circleMarker(latlng, myStyle);
+                                                 }
+                                                 }).addTo(map);
+                    controlLayers.addOverlay(geojsonLayer, 'Negative Tweets : Hillary in Texas');
+                    });
+
+
+
+
+
+
+
+        $.getJSON(positive_url_T_T, function (geojson) {
+          
+          var myStyle = {
+          radius: 3,
+          fillColor: "green",
+          color: "green",
+          weight: 1,
+          opacity: 1,
+          fillOpacity: 1
+          };
+          
+          
+          
+          var geojsonLayer = L.geoJson(geojson, {
+                                       pointToLayer: function (feature, latlng) {
+                                       return L.circleMarker(latlng, myStyle);
+                                       }
+                                       }).addTo(map);
+          controlLayers.addOverlay(geojsonLayer, 'Positive Tweets: Trump in Texas');
+          });
+          
+          $.getJSON(negative_url_T_T, function (geojson) {
+                    
+                    var myStyle = {
+                    radius: 3,
+                    fillColor: "red",
+                    color: "red",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 1
+                    };
+                    
+                    
+                    
+                    var geojsonLayer = L.geoJson(geojson, {
+                                                 pointToLayer: function (feature, latlng) {
+                                                 return L.circleMarker(latlng, myStyle);
+                                                 }
+                                                 }).addTo(map);
+                    controlLayers.addOverlay(geojsonLayer, 'Negative Tweets : Trump in Texas');
+                    });
+
+
+
+        $.getJSON(positive_url_T_C, function (geojson) {
+          
+          var myStyle = {
+          radius: 3,
+          fillColor: "green",
+          color: "green",
+          weight: 1,
+          opacity: 1,
+          fillOpacity: 1
+          };
+          
+          
+          
+          var geojsonLayer = L.geoJson(geojson, {
+                                       pointToLayer: function (feature, latlng) {
+                                       return L.circleMarker(latlng, myStyle);
+                                       }
+                                       }).addTo(map);
+          controlLayers.addOverlay(geojsonLayer, 'Positive Tweets: Trump in California');
+          });
+          
+          $.getJSON(negative_url_T_C, function (geojson) {
+                    
+                    var myStyle = {
+                    radius: 3,
+                    fillColor: "red",
+                    color: "red",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 1
+                    };
+                    
+                    
+                    
+                    var geojsonLayer = L.geoJson(geojson, {
+                                                 pointToLayer: function (feature, latlng) {
+                                                 return L.circleMarker(latlng, myStyle);
+                                                 }
+                                                 }).addTo(map);
+                    controlLayers.addOverlay(geojsonLayer, 'Negative Tweets : Trump in California');
+                    });
+
+
+
+        </script>
+    </body>
+</html>
+

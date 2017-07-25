@@ -1,0 +1,635 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.243, 
+                    34.0522
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Try This Today\nAdd raw or slightly steamed broccoli with lunch or dinner.\n#thesailife #hi\u2026 https://t.co/XqcGCN0r74", 
+                "created_at": "Wed Aug 17 17:09:34 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.4369927, 
+                    34.1565639
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #ShermanOaks, CA? View our latest opening: https://t.co/AGR7MeAxPe #Job #Retail #Jobs #Hiring #CareerArc", 
+                "created_at": "Wed Aug 17 17:09:47 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.24247761, 
+                    34.05348418
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Los Angeles City Hall in Los Angeles, CA https://t.co/CGzkEjFTKh", 
+                "created_at": "Wed Aug 17 17:10:04 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.37845, 
+                    34.09244
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "no more || break the chain \ud83d\udc4a\ud83c\udffb\ud83d\udca5\u26a1\ufe0f experienced a legit break through (not down) with the 8:30\u2026 https://t.co/WhK0akQBBf", 
+                "created_at": "Wed Aug 17 17:09:41 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.15207012, 
+                    36.02523082
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Nap time!! He's dreaming about his girls. He misses them. A lot.\u2026 https://t.co/UA04PkfOHg", 
+                "created_at": "Wed Aug 17 17:09:48 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.372, 
+                    34.0879
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Let yourself in and shit... #instamorning @ West Hollywood, California https://t.co/uQddc4JK3D", 
+                "created_at": "Wed Aug 17 17:10:09 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.24790955, 
+                    33.97866994
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "A meal-kit start up wants to take the terror out of throwing a dinner\u2026 https://t.co/37ENdrWHOZ #Uncategorized https://t.co/ybsbQxbT8I", 
+                "created_at": "Wed Aug 17 17:10:16 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.571, 
+                    34.4261
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "#VIDEO I had never seen a wildfire like this one before. It decimated homes and buildings miles\u2026 https://t.co/nusOvwV9me", 
+                "created_at": "Wed Aug 17 17:10:11 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.05444444, 
+                    39.24222222
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Wind 1.0 mph SSE. Barometer 29.763 in, Steady. Temperature 82.8 \u00b0F. Rain today 0.00 in. Humidity 31%", 
+                "created_at": "Wed Aug 17 17:10:26 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.326267, 
+                    34.102257
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\ud83c\udf34 \ud83c\udf34\ud83d\udc78\u261d \ud83c\udf1e    #virgoseason #birthdayturnup #flirty30s #dirty30s #bottomlessmimosas  \ud83c\udf7e\ud83c\udf79dm me for\u2026 https://t.co/RgelBH5nzi", 
+                "created_at": "Wed Aug 17 17:10:44 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.9999606, 
+                    37.8215929
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Danville, CA? View our latest opening: https://t.co/5vlfmIpZqw #Job #Jobs #Hiring #CareerArc", 
+                "created_at": "Wed Aug 17 17:10:52 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.3082034, 
+                    33.9519253
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "All about Pin Trading  https://t.co/U4jFZgStdF", 
+                "created_at": "Wed Aug 17 17:10:58 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.14344762, 
+                    36.17048205
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "About last night! \n#latepost #lasvegas @ Downtown Las Vegas Fremont https://t.co/jehbGqLgfL", 
+                "created_at": "Wed Aug 17 17:11:01 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.243, 
+                    34.0522
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "No filter needed for Los Angeles. View of Los Angeles from Griffith Observatory. \n#viewofthecity\u2026 https://t.co/wy2Rvk2gHs", 
+                "created_at": "Wed Aug 17 17:11:02 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.2651, 
+                    37.83791
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Slow moving maintenance vehicle in #Oakland on CA-24 EB at 51st St, stopped traffic back to I-580, delay of 11 mins #BayArea #Traffic", 
+                "created_at": "Wed Aug 17 17:11:10 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.8863286, 
+                    37.3382082
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at Wells Fargo? We're #hiring in #SanJose, CA! Click for details: https://t.co/Jh4luKc8Qv #Job #Sales #Jobs #CareerArc", 
+                "created_at": "Wed Aug 17 17:11:10 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.375578, 
+                    34.083863
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Officially a @ninezeroone girl! Thanks so much kimbow_901 for taking care of my sad sad ends and\u2026 https://t.co/fZdeJcoe5q", 
+                "created_at": "Wed Aug 17 17:11:20 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.25043964, 
+                    34.11525622
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Last night we played and recorded a few tunes for a very small studio audience at Swinghouse\u2026 https://t.co/TnC92eSOlT", 
+                "created_at": "Wed Aug 17 17:11:22 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.1740362, 
+                    36.11716553
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Haters make threats, can't hear em over the laughter\u2026 https://t.co/ROdxpVtkeq", 
+                "created_at": "Wed Aug 17 17:11:33 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.32693554, 
+                    34.10150824
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Here on red carpet with @therealmarymary for the premiere of #BENHUR benhurmovie #romadowney\u2026 https://t.co/A8cHPUKTZM", 
+                "created_at": "Wed Aug 17 17:11:40 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.9623751, 
+                    37.2358078
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #LosGatos, CA? View our latest opening: https://t.co/5ve17gs2XS #Job #Retail #Veterans #Jobs #Hiring #CareerArc", 
+                "created_at": "Wed Aug 17 17:11:41 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42387742, 
+                    37.76153325
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Good Morning from #SanFrancisco! A little #CarbOrgy from the #magical tartinebakery. #croissants\u2026 https://t.co/5Dnr7BsBKG", 
+                "created_at": "Wed Aug 17 17:11:48 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.4360681, 
+                    33.95430906
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\"99% versus the 1%\" #mockingbirdfalls 8\u202217\u202216\n#99v1 #JeSuisCharlie @jeffpetersla @ComicsCreative https://t.co/mLw0FwL7df", 
+                "created_at": "Wed Aug 17 17:11:40 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.46783333, 
+                    37.76033
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Closed Graffiti request at 650 Kirkham St https://t.co/yTqtrU6IMG. Case closed. case resolved. https://t.co/1jkAaeXsoF", 
+                "created_at": "Wed Aug 17 17:11:57 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.7432015, 
+                    34.0836851
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Pomona, CA? View our latest opening: https://t.co/AMb2Hrsqgs #Job #Nursing #Jobs #Hiring #CareerArc", 
+                "created_at": "Wed Aug 17 17:12:01 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.26712514, 
+                    34.10296119
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "idk if its a sin...pero, I want to make some vegan pozole \ud83d\ude01\ud83c\udf72\ud83c\udf3f\ud83c\udf39\u2728 https://t.co/ITvXbMshbG", 
+                "created_at": "Wed Aug 17 17:12:13 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.25090267, 
+                    34.04654969
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "People need to know that I'm putting the stamp on this vibe \ud83c\udf0a #WayOverDue #thelostboys\u2026 https://t.co/n3HdJi999N", 
+                "created_at": "Wed Aug 17 17:12:14 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.1387, 
+                    37.69114
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Accident, two lanes blocked in #SanLorenzo on I-880 NB at I-238, stopped traffic back to 92, delay of 45 mins #BayArea #Traffic", 
+                "created_at": "Wed Aug 17 17:12:27 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.913238, 
+                    36.5790057
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work at #CHOMP? We're #hiring in #Monterey, CA! Click for details: https://t.co/LT3EHqPtqG #CHOMP #NorCal https://t.co/8nXTZfAFIS", 
+                "created_at": "Wed Aug 17 17:12:37 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43836423, 
+                    37.76226843
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Closed Graffiti request at 7 Eureka St https://t.co/Zmjv7oaTFi. Case closed. case resolved.", 
+                "created_at": "Wed Aug 17 17:12:47 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.485358, 
+                    37.7426289
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Closed Street or Sidewalk Cleaning request at Taraval St SF San Francisco County https://t.co/othvMGhUZo. Case closed. case resolved.", 
+                "created_at": "Wed Aug 17 17:12:51 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.243, 
+                    34.0522
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Take time. @ Los Angeles, California https://t.co/FVFZr15X6R", 
+                "created_at": "Wed Aug 17 17:12:51 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.170326, 
+                    36.11305443
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Hoy, la dieta no cuenta! \n\ud83d\udc37 @ Le Village Buffet https://t.co/irhd5PA0Kq", 
+                "created_at": "Wed Aug 17 17:13:08 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41541, 
+                    37.77282
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Closed Graffiti request at 216 11th St https://t.co/RUhiYDxZpV. Case closed. case resolved. https://t.co/4jCl9dpepG", 
+                "created_at": "Wed Aug 17 17:13:00 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.17456937, 
+                    36.10969068
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "The Champ \ud83d\udc4a\ud83c\udffc \nThe one and only \n#NonitoDonaire \n#sports #box #boxing #champ #champion the #best\u2026 https://t.co/64i8nFatci", 
+                "created_at": "Wed Aug 17 17:13:30 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.92111111, 
+                    36.61916667
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "No a bad way to start #carweek2016!  #pacificgrove #bluehousebythesea #nofilter #ocean\u2026 https://t.co/Qq71l7jtUd", 
+                "created_at": "Wed Aug 17 17:13:24 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.9194769, 
+                    34.1921361
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #ThousandOaks, CA? View our latest opening: https://t.co/qJxjo5RXNO #Job #Jobs #Hiring #CareerArc", 
+                "created_at": "Wed Aug 17 17:13:24 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.8678416, 
+                    37.7029861
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Dublin, CA? View our latest opening: https://t.co/sFDWgVmNO5 #Job #Jobs #Hiring #CareerArc", 
+                "created_at": "Wed Aug 17 17:13:55 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.24204, 
+                    36.19990826
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "FunTastic Friday's is back with an Open Mic. Only at Outpost Saloon in Las Vegas. #prefamous\u2026 https://t.co/M2BVy34jfL", 
+                "created_at": "Wed Aug 17 17:13:52 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.1370697, 
+                    33.8745795
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "2009 Volkswagen Beetle conv. Window regulator replacement. #vw #vwbug #beetleconvertible\u2026 https://t.co/Xv5SGHhgIX", 
+                "created_at": "Wed Aug 17 17:14:12 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.01176785, 
+                    37.69894421
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "\u0424\u043e\u0442\u043e 29 https://t.co/pKASexmX2B", 
+                "created_at": "Wed Aug 17 17:14:13 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.8602897, 
+                    41.24579625
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "@politico_media @politico Well Trump has to blame someone, he never takes responsibility.", 
+                "created_at": "Wed Aug 17 17:14:26 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.46923344, 
+                    33.99160782
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "We don't talk anymore...\n@tbdjuicebarcafe \n\n#ModernManJournal @ The Butcher's Daughter Venice https://t.co/HfQIIunhOY", 
+                "created_at": "Wed Aug 17 17:14:24 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.26, 
+                    33.89
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "temperature up 63\u00b0F -&gt; 86\u00b0F\nhumidity down 62% -&gt; 21%\nwind 2mph -&gt; 4mph", 
+                "created_at": "Wed Aug 17 17:14:46 +0000 2016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -115.0228736, 
+                    35.952556
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Want to work in #Henderson, NV? View our latest opening: https://t.co/fcmcncQp8M #Job #Healthcare #Jobs #Hiring #CareerArc", 
+                "created_at": "Wed Aug 17 17:14:47 +0000 2016"
+            }
+        }
+    ]
+}
